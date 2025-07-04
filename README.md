@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A computer enginnering student but down to other subjects and interests such as economy, marketing, fitness, health and drawing sketches. I'm a focused, determined,creative and a nice person,always open to learn about new stuff and experience new things.</h3>
 
-- 📫 How to reach me **rafael.silva22.12.2004@gmail.com**
+- 📫 How to reach me **rafaelfsilva.ei@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
